@@ -12,4 +12,5 @@ https://gist.github.com/jpalala/ab3c33dd9ee5a6efbdae
 After installing it, we can index json data to the elastic search and then query it to perform searches. The code I have attached includes a sample example on how to index document data to elasticsearch and then query it to fetch the results.
 
 sample-output.png - shows the output obtained by running python elasticsearch.py on Terminal.
+
 Local-index-created - shows indexed data on local URL where elasticsearch is running. Format of URL is "http://localhost:9200/index-name/type/id"
